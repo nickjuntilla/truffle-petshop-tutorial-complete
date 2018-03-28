@@ -1,5 +1,7 @@
 # truffle-petshop-tutorial-complete
 Finished Petshop Tutorial Original Readme File below
+Just running all the commands should now bring up the completed project.
+You will still have to configure your metamask to connect to your truffle develop blockchain
 
 # Pet Shop Truffle Box
 
