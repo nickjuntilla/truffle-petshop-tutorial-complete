@@ -1,3 +1,5 @@
+Westside Blockchain slides: https://docs.google.com/presentation/d/1IhtHU9m94zeoiMBvVjFeoPcxc8VbbE-2U6rdACGHSrk/edit?usp=sharing
+
 # truffle-petshop-tutorial-complete
 Finished Petshop Tutorial Original Readme File below
 Just running all the commands should now bring up the completed project.
