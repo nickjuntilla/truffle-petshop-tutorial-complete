@@ -1,7 +1,7 @@
 Westside Blockchain slides: https://docs.google.com/presentation/d/1IhtHU9m94zeoiMBvVjFeoPcxc8VbbE-2U6rdACGHSrk/edit?usp=sharing
 
 # truffle-petshop-tutorial-complete
-Finished Petshop Tutorial Original Readme File below
+Finished Petshop Tutorial modified Readme File below
 Just running all the commands should now bring up the completed project.
 You will still have to configure your metamask to connect to your truffle develop blockchain
 
@@ -41,7 +41,6 @@ IN A NEW COMMAND LINE-
  
  8. Get one of generated private keys from truffle develop. Use switch accounts on metamasm and add the private key from the truffle develop console.
 
-**NOTE**: This box is not a complete dapp, but the starting point for the [Pet Shop tutorial](http://truffleframework.com/tutorials/pet-shop). You'll need to complete that for this to function.
 
 ## FAQ
 
