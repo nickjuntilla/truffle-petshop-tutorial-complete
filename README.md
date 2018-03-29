@@ -35,9 +35,9 @@ IN A NEW COMMAND LINE-
     
  6. Install MetaMask - https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
  
- 7. Connect to your local blockchain server - http://127.0.0.1:9545/
+ 7. In metamask, top left corner, Connect to your local blockchain server - http://127.0.0.1:9545/
  
- 8. Import one of your private keys from your truffle develop console
+ 8. Get one of generated private keys from truffle develop. Use switch accounts on metamasm and add the private key from the truffle develop console.
 
 **NOTE**: This box is not a complete dapp, but the starting point for the [Pet Shop tutorial](http://truffleframework.com/tutorials/pet-shop). You'll need to complete that for this to function.
 
