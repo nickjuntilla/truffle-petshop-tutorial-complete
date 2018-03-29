@@ -13,11 +13,7 @@ This box has all you need to get started with our [Pet Shop tutorial](http://tru
     ```javascript
     npm install -g truffle
     ```
-
-2. Download the box. This also takes care of installing the necessary dependencies.
-    ```javascript
-    truffle unbox pet-shop
-    ```
+2 is not needed if you clone this
 
 3. Run the development console.
     ```javascript
