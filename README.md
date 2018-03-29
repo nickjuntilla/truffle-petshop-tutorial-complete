@@ -26,6 +26,7 @@ This box has all you need to get started with our [Pet Shop tutorial](http://tru
     migrate
     ```
 
+IN A NEW COMMAND LINE-
 5. Run the `liteserver` development server (outside the development console) for front-end hot reloading. Smart contract changes must be manually recompiled and migrated.
     ```javascript
     // Serves the front-end on http://localhost:3000
