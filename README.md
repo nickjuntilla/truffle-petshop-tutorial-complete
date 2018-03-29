@@ -13,7 +13,7 @@ This box has all you need to get started with our [Pet Shop tutorial](http://tru
     ```javascript
     npm install -g truffle
     ```
-2 is not needed if you clone this
+2. CD into your cloned directory. Run `npm install`
 
 3. Run the development console.
     ```javascript
