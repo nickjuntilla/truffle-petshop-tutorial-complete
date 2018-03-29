@@ -32,6 +32,12 @@ IN A NEW COMMAND LINE-
     // Serves the front-end on http://localhost:3000
     npm run dev
     ```
+    
+ 6. Install MetaMask - https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
+ 
+ 7. Connect to your local blockchain server - http://127.0.0.1:9545/
+ 
+ 8. Import one of your private keys from your truffle develop console
 
 **NOTE**: This box is not a complete dapp, but the starting point for the [Pet Shop tutorial](http://truffleframework.com/tutorials/pet-shop). You'll need to complete that for this to function.
 
