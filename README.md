@@ -40,7 +40,9 @@ IN A NEW COMMAND LINE-
  
  7. In metamask, top left corner, Connect to your local blockchain server - http://127.0.0.1:9545/
  
- 8. Get one of generated private keys from truffle develop. Use switch accounts on metamasm and add the private key from the truffle develop console.
+ 8. Get one of generated private keys from truffle develop. Use import account on metamasm and add the private key from the truffle develop console.
+ 
+ 9. Try adopting a pet.
 
 
 ## FAQ
